@@ -1,1 +1,1 @@
-print('Hello, John, Paul, George and Ringo!')
+print('Hello, The Beatles!')
