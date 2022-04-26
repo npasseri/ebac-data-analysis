@@ -3,7 +3,7 @@
 ## **Introduction**
 
 This production (repository and files) was developed as a part of a Data Analysis Course provided by EBAC.
-On this module 19, our goal is to learn how to deal with version control of codding development using GitHub.
+On this module 19, our goal is to learn how to deal with version control of coding development using GitHub.
 
 ## **Contents**
 
