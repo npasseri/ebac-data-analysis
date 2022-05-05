@@ -15,3 +15,5 @@ with sns.axes_style('whitegrid'):
 
 # Salvando o gráfico em PNG
 grafico.figure.savefig(fname='gasolina.png', bbox_inches='tight')
+
+print('Hello, Nick!')
